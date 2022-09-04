@@ -25,6 +25,7 @@ wrangler publish
 
 [Click Here](https://developers.cloudflare.com/workers/examples)
 
+[Demo](https://info.nego.workers.dev/)
 
 
 **Contact Me**
