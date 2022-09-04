@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "wrangler": "^2.0.28"
+  }
+}
